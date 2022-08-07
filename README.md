@@ -6,7 +6,9 @@
 ### Citations
 
 ````
-Elouardighi, A., Maghfour, M., & Hammia, H. (2017, October). Collecting and processing arabic facebook comments for sentiment analysis. In International conference on model and data engineering (pp. 262-274). Springer, Cham.
+Elouardighi, A., Maghfour, M., & Hammia, H. (2017, October).
+Collecting and processing arabic facebook comments for sentiment analysis. 
+In International conference on model and data engineering (pp. 262-274). Springer, Cham.
 ````
 
 Bibtex:

@@ -11,7 +11,7 @@ Collecting and processing arabic facebook comments for sentiment analysis.
 In International conference on model and data engineering (pp. 262-274). Springer, Cham.
 ````
 
-Bibtex:
+BibTex:
 ````
 @inproceedings{elouardighi2017collecting,
   title={Collecting and processing arabic facebook comments for sentiment analysis},
